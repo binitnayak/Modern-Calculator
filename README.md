@@ -4,7 +4,7 @@ A sleek and responsive calculator built with pure HTML, CSS, and JavaScript. Des
 Features
 
 Responsive layout for desktop and mobile
-Dark/light theme toggle (if you've included it)
+Dark/light theme toggle 
 Keyboard input support
 Clean button animations
 User-friendly error handling
